@@ -14,4 +14,7 @@ public class Calculater {
 	public static int  devide(int a, int b) {
 	return a/b;
 	}
+	public static String sout(String str) {
+	return System.out.println(str);
+	}
 }
